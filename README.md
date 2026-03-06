@@ -26,5 +26,7 @@ This project presents an interactive Power BI dashboard developed to analyze sal
 - Certain product sub-categories like printers and bookcases produced the highest profit margins.
 
 ## 💻 Dashboard Preview
+https://github.com/ankur-chowdhury/Madhav-Ecommerce-Power-BI-Sales-Dashboard/blob/main/Madhav_Ecommerce_Power_BI_Project.png
+<img width="1203" height="675" alt="Madhav_Ecommerce_Power_BI_Project" src="https://github.com/user-attachments/assets/b1b79e22-c20c-4391-8b1c-ae3e18db91a7" />
 
 
